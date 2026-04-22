@@ -35,7 +35,7 @@ img {
 </style>
 """, unsafe_allow_html=True)
 st.title("🏠 :green[Home]")
-st.image("IMG_20220912_221528.jpg",width=200,)
+st.image(" my portfolio/IMG_20220912_221528.jpg",width=200,)
 
 st.header("Hi, I'm Carol")
 st.write("I'm Computer Science Student at DEBESMSCAT")
